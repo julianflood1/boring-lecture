@@ -1,0 +1,10 @@
+h2.intro {
+  color: fuchsia;
+  font-style: italic;
+}
+p.intro {
+  color: red;
+}
+img.intro {
+  border: solid 5px red;
+}
